@@ -121,12 +121,16 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/16005.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/16006.ts
 #EXTINF:-1 tvg-id="" tvg-name="Band RJ FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/band.png" group-title="Canais | Abertos",Band RJ FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17053.ts
+#EXTINF:-1 tvg-id="174" tvg-name="Band SP FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/band.png" group-title="Canais | Abertos",Band SP FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17000.ts
 #EXTINF:-1 tvg-id="175" tvg-name="Cultura FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/cultura.png" group-title="Canais | Abertos",Cultura FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17003.ts
 #EXTINF:-1 tvg-id="95" tvg-name="Futura FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/futura.png" group-title="Canais | Abertos",Futura FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17006.ts
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Rio FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Rio FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17012.ts
+#EXTINF:-1 tvg-id="317" tvg-name="Record TV SP FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV SP FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17009.ts
 #EXTINF:-1 tvg-id="185" tvg-name="RedeTV! FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17036.ts
 #EXTINF:-1 tvg-id="184" tvg-name="SBT FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/sbt.png" group-title="Canais | Abertos",SBT FHD
@@ -135,6 +139,8 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17039.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17052.ts
 #EXTINF:-1 tvg-id="" tvg-name="Globo Rio FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Abertos",Globo Rio FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18021.ts
+#EXTINF:-1 tvg-id="124" tvg-name="Globo São Paulo FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Abertos",Globo São Paulo FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18024.ts
 #EXTINF:-1 tvg-id="5" tvg-name="Band Sports FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19000.ts
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1 (reprises)" tvg-logo="http://www.fontedecanais.org/logos/canais/ufcfightpass.png" group-title="Canais | Esportes",UFC Fight Pass 1 (reprises)

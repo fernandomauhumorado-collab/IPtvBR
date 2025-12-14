@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="86" tvg-name="A&E FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="Canais | Variedades",A&E FHD
+#EXTINF:-1 tvg-id="86" tvg-name="A&E FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/agro-mais-br.png" group-title="Canais | Variedades",A&E FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12000.ts
 #EXTINF:-1 tvg-id="101" tvg-name="BIS FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/bis.png" group-title="Canais | Variedades",BIS FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12003.ts

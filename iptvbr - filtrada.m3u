@@ -461,3 +461,5 @@ http://fontetop.xyz:80/YPzbb6/1B4SzK/149371
 #EXTINF:-1 tvg-id="" tvg-name="Super Rádio Tupi 96.5 FM RJ" tvg-logo="https://img.radios.com.br/radio/lg/radio14215_1562877228.jpg" group-title="FM",Super Rádio Tupi 96.5 FM RJ
 #EXTINF:-1 tvg-id="" tvg-name="Rádio FM O Dia 100.5" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio FM O Dia 100.5
 http://fontetop.xyz:80/YPzbb6/1B4SzK/149377
+#EXTINF:-1 tvg-id="" tvg-name="SBT News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/SBT_News_2025.svg/960px-SBT_News_2025.svg.png" group-title="Canais | Notícias",SBT News
+https://dai.google.com/linear/hls/pa/event/1XSOdtQ0SH2G8OEmEfGgjQ/stream/e0484f1b-7dba-480a-82b1-776b27ed5202:SCL2/variant/c99d2ab0d64c3b2c5e12915279ff25a7/bandwidth/3126348.m3u8

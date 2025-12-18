@@ -33,7 +33,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12045.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12048.ts
 #EXTINF:-1 tvg-id="12" tvg-name="TLC FHD" tvg-logo="https://i.imgur.com/wUk3MRw.png" group-title="Canais | Variedades",TLC FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12051.ts
-#EXTINF:-1 tvg-id="75" tvg-name="Travel Box Brazil FHD" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title="Canais | Variedades",Travel Box Brazil FHD
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brazil FHD" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title="Canais | Variedades",Travel Box Brazil FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12054.ts
 #EXTINF:-1 tvg-id="322" tvg-name="Adult Swim FHD" tvg-logo="https://logowik.com/content/uploads/images/adult-swim3905.jpg" group-title="Canais | Variedades",Adult Swim FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12057.ts
@@ -51,9 +51,9 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13006.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13009.ts
 #EXTINF:-1 tvg-id="105" tvg-name="Megapix FHD" tvg-logo="https://raphmx00.com/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13015.ts
-#EXTINF:-1 tvg-id="16" tvg-name="Paramount Network FHD" tvg-logo="https://raphmx00.com/paramountchannel.png" group-title="Canais | Filmes e Séries",Paramount Network FHD
+#EXTINF:-1 tvg-id="br#paramount-brasil-hd" tvg-name="Paramount Network FHD" tvg-logo="https://raphmx00.com/paramountchannel.png" group-title="Canais | Filmes e Séries",Paramount Network FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13018.ts
-#EXTINF:-1 tvg-id="82" tvg-name="Sony Channel FHD" tvg-logo="https://raphmx00.com/sony.png" group-title="Canais | Filmes e Séries",Sony Channel FHD
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel FHD" tvg-logo="https://raphmx00.com/sony.png" group-title="Canais | Filmes e Séries",Sony Channel FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13021.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sony Movies FHD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Canais | Filmes e Séries",Sony Movies FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13024.ts
@@ -65,9 +65,9 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13033.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13036.ts
 #EXTINF:-1 tvg-id="9" tvg-name="TNT FHD" tvg-logo="https://raphmx00.com/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13039.ts
-#EXTINF:-1 tvg-id="20" tvg-name="TNT Séries FHD" tvg-logo="https://raphmx00.com/tntseries.png" group-title="Canais | Filmes e Séries",TNT Séries FHD
+#EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@Brazil" tvg-name="TNT Séries FHD" tvg-logo="https://raphmx00.com/tntseries.png" group-title="Canais | Filmes e Séries",TNT Séries FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13042.ts
-#EXTINF:-1 tvg-id="102" tvg-name="Universal TV FHD" tvg-logo="https://raphmx00.com/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV FHD
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Brazil" tvg-name="Universal TV FHD" tvg-logo="https://raphmx00.com/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13045.ts
 #EXTINF:-1 tvg-id="106" tvg-name="Studio Universal FHD" tvg-logo="https://raphmx00.com/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13048.ts
@@ -75,17 +75,17 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13048.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13051.ts
 #EXTINF:-1 tvg-id="47" tvg-name="TCM FHD" tvg-logo="https://raphmx00.com/tcm.png" group-title="Canais | Filmes e Séries",TCM FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13054.ts
-#EXTINF:-1 tvg-id="51" tvg-name="Film & Arts FHD" tvg-logo="https://raphmx00.com/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts FHD
+#EXTINF:-1 tvg-id="FilmArts.ar@Brazil" tvg-name="Film & Arts FHD" tvg-logo="https://raphmx00.com/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13057.ts
-#EXTINF:-1 tvg-id="260" tvg-name="HBO FHD" tvg-logo="https://raphmx00.com/hbo1.png" group-title="Canais | HBO",HBO FHD
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO FHD" tvg-logo="https://raphmx00.com/hbo1.png" group-title="Canais | HBO",HBO FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14000.ts
-#EXTINF:-1 tvg-id="261" tvg-name="HBO 2 FHD" tvg-logo="https://raphmx00.com/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD" tvg-logo="https://raphmx00.com/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14003.ts
 #EXTINF:-1 tvg-id="263" tvg-name="HBO Family FHD" tvg-logo="https://raphmx00.com/hbofamily.png" group-title="Canais | HBO",HBO Family FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14006.ts
 #EXTINF:-1 tvg-id="266" tvg-name="HBO Mundi FHD" tvg-logo="https://raphmx00.com/hbomundi.png" group-title="Canais | HBO",HBO Mundi FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14009.ts
-#EXTINF:-1 tvg-id="262" tvg-name="HBO Plus FHD" tvg-logo="https://raphmx00.com/hboplus.png" group-title="Canais | HBO",HBO Plus FHD
+#EXTINF:-1 tvg-id="br#hbo-plus" tvg-name="HBO Plus FHD" tvg-logo="https://raphmx00.com/hboplus.png" group-title="Canais | HBO",HBO Plus FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14012.ts
 #EXTINF:-1 tvg-id="265" tvg-name="HBO Pop FHD" tvg-logo="https://raphmx00.com/hbopop.png" group-title="Canais | HBO",HBO Pop FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14015.ts
@@ -123,23 +123,23 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/16006.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17053.ts
 #EXTINF:-1 tvg-id="174" tvg-name="Band SP FHD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",Band SP FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17000.ts
-#EXTINF:-1 tvg-id="175" tvg-name="Cultura FHD" tvg-logo="https://raphmx00.com/tvcultura.png" group-title="Canais | Abertos",Cultura FHD
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="Cultura FHD" tvg-logo="https://raphmx00.com/tvcultura.png" group-title="Canais | Abertos",Cultura FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17003.ts
 #EXTINF:-1 tvg-id="95" tvg-name="Futura FHD" tvg-logo="https://raphmx00.com/tvfutura.png" group-title="Canais | Abertos",Futura FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17006.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Abertos",Record TV Rio FHD
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV Rio FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Abertos",Record TV Rio FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17012.ts
-#EXTINF:-1 tvg-id="317" tvg-name="Record TV SP FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Abertos",Record TV SP FHD
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV SP FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Abertos",Record TV SP FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17009.ts
-#EXTINF:-1 tvg-id="185" tvg-name="RedeTV! FHD" tvg-logo="https://raphmx00.com/redetv.png" group-title="Canais | Abertos",RedeTV! FHD
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV! FHD" tvg-logo="https://raphmx00.com/redetv.png" group-title="Canais | Abertos",RedeTV! FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17036.ts
-#EXTINF:-1 tvg-id="184" tvg-name="SBT FHD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT FHD
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT FHD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17039.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV A Crítica" tvg-logo="https://i.imgur.com/LXvCAY1.png" group-title="Canais | Abertos",TV A Crítica
+#EXTINF:-1 tvg-id="TVACritica.br" tvg-name="TV A Crítica" tvg-logo="https://i.imgur.com/LXvCAY1.png" group-title="Canais | Abertos",TV A Crítica
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17052.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Abertos",Globo Rio FHD
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="Globo RJ HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Abertos",Globo Rio FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18021.ts
-#EXTINF:-1 tvg-id="124" tvg-name="Globo SP HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Abertos",Globo São Paulo FHD
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="Globo SP HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Abertos",Globo São Paulo FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18024.ts
 #EXTINF:-1 tvg-id="5" tvg-name="Band Sports FHD" tvg-logo="https://raphmx00.com/bandsports.png" group-title="Canais | Esportes",Band Sports FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19000.ts
@@ -199,13 +199,13 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19068.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19069.ts
 #EXTINF:-1 tvg-id="" tvg-name="CazeTV 03" tvg-logo="https://raphmx00.com/cazetv.png" group-title="Canais | Esportes",CazeTV 03
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19070.ts
-#EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Esportes",Paramount+ 1
+#EXTINF:-1 tvg-id="br#conmebol-tv-1" tvg-name="Paramount+ 1" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Esportes",Paramount+ 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19071.ts
-#EXTINF:-1 tvg-id="90" tvg-name="Paramount+ 2" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Esportes",Paramount+ 2
+#EXTINF:-1 tvg-id="br#conmebol-tv-2" tvg-name="Paramount+ 2" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Esportes",Paramount+ 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19072.ts
-#EXTINF:-1 tvg-id="91" tvg-name="Paramount+ 3" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Esportes",Paramount+ 3
+#EXTINF:-1 tvg-id="br#conmebol-tv-3" tvg-name="Paramount+ 3" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Esportes",Paramount+ 3
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19073.ts
-#EXTINF:-1 tvg-id="92" tvg-name="Paramount+ 4" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Esportes",Paramount+ 4
+#EXTINF:-1 tvg-id="br#conmebol-tv-4" tvg-name="Paramount+ 4" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Esportes",Paramount+ 4
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19074.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal Goat 01" tvg-logo="https://i.imgur.com/g4cFsVv.jpg" group-title="Canais | Esportes",Canal Goat 01
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19080.ts
@@ -213,7 +213,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19080.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19081.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal Goat 03" tvg-logo="https://i.imgur.com/g4cFsVv.jpg" group-title="Canais | Esportes",Canal Goat 03
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19082.ts
-#EXTINF:-1 tvg-id="107" tvg-name="﻿Premiere 1 FHD" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | Premiere",Premiere 1 FHD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="﻿Premiere 1 FHD" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | Premiere",Premiere 1 FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20000.ts
 #EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 FHD" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Canais | Premiere",Premiere 2 FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20003.ts
@@ -229,15 +229,15 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20015.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20018.ts
 #EXTINF:-1 tvg-id="351" tvg-name="Premiere 8 FHD" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | Premiere",Premiere 8 FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20021.ts
-#EXTINF:-1 tvg-id="30" tvg-name="SporTV FHD" tvg-logo="https://raphmx00.com/sportv1.png" group-title="Canais | SporTV",SporTV FHD
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV FHD" tvg-logo="https://raphmx00.com/sportv1.png" group-title="Canais | SporTV",SporTV FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21000.ts
 #EXTINF:-1 tvg-id="31" tvg-name="SporTV 2 FHD" tvg-logo="https://raphmx00.com/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21003.ts
 #EXTINF:-1 tvg-id="32" tvg-name="SporTV 3 FHD" tvg-logo="https://raphmx00.com/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21006.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 FHD" tvg-logo="https://images.seeklogo.com/logo-png/50/1/sport-tv4-2023-logo-png_seeklogo-504102.png" group-title="Canais | SporTV",SporTV 4 FHD
+#EXTINF:-1 tvg-id="SporTV4.br" tvg-name="SporTV 4 FHD" tvg-logo="https://images.seeklogo.com/logo-png/50/1/sport-tv4-2023-logo-png_seeklogo-504102.png" group-title="Canais | SporTV",SporTV 4 FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21009.ts
-#EXTINF:-1 tvg-id="29" tvg-name="ESPN FHD" tvg-logo="https://raphmx00.com/espn1.png" group-title="Canais | ESPN",ESPN FHD
+#EXTINF:-1 tvg-id="lch211" tvg-name="ESPN FHD" tvg-logo="https://raphmx00.com/espn1.png" group-title="Canais | ESPN",ESPN FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22000.ts
 #EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 FHD" tvg-logo="https://raphmx00.com/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22003.ts
@@ -251,7 +251,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22012.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22015.ts
 #EXTINF:-1 tvg-id="15" tvg-name="Animal Planet FHD" tvg-logo="https://raphmx00.com/animalplanet.png" group-title="Canais | Documentários",Animal Planet FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23000.ts
-#EXTINF:-1 tvg-id="34" tvg-name="Arte1 FHD" tvg-logo="https://raphmx00.com/arte1.png" group-title="Canais | Documentários",Arte1 FHD
+#EXTINF:-1 tvg-id="lch5552" tvg-name="Arte1 FHD" tvg-logo="https://raphmx00.com/arte1.png" group-title="Canais | Documentários",Arte1 FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23003.ts
 #EXTINF:-1 tvg-id="19" tvg-name="Curta! FHD" tvg-logo="https://raphmx00.com/curta.png" group-title="Canais | Documentários",Curta! FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23006.ts
@@ -263,13 +263,13 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23012.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23015.ts
 #EXTINF:-1 tvg-id="118" tvg-name="Discovery World FHD" tvg-logo="https://raphmx00.com/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23018.ts
-#EXTINF:-1 tvg-id="85" tvg-name="H2 FHD" tvg-logo="https://raphmx00.com/history2.png" group-title="Canais | Documentários",H2 FHD
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil" tvg-name="H2 FHD" tvg-logo="https://raphmx00.com/history2.png" group-title="Canais | Documentários",H2 FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23021.ts
 #EXTINF:-1 tvg-id="115" tvg-name="HGTV FHD" tvg-logo="https://raphmx00.com/hgtv.png" group-title="Canais | Documentários",HGTV FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23024.ts
 #EXTINF:-1 tvg-id="84" tvg-name="History FHD" tvg-logo="https://raphmx00.com/history.png" group-title="Canais | Documentários",History FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23027.ts
-#EXTINF:-1 tvg-id="13" tvg-name="ID: Investigação Discovery FHD" tvg-logo="https://raphmx00.com/discoveryid.png" group-title="Canais | Documentários",ID: Investigação Discovery FHD
+#EXTINF:-1 tvg-id="InvestigationDiscovery.br" tvg-name="ID: Investigação Discovery FHD" tvg-logo="https://raphmx00.com/discoveryid.png" group-title="Canais | Documentários",ID: Investigação Discovery FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23030.ts
 #EXTINF:-1 tvg-id="2" tvg-name="Cartoon Network FHD" tvg-logo="https://raphmx00.com/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/24003.ts
@@ -301,7 +301,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25006.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25009.ts
 #EXTINF:-1 tvg-id="182" tvg-name="Record News FHD" tvg-logo="https://raphmx00.com/recordnews.png" group-title="Canais | Notícias",Record News FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25012.ts
-#EXTINF:-1 tvg-id="349" tvg-name="CNN Money FHD" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cnn-brasil-money-logo-png_seeklogo-612480.png" group-title="Canais | Notícias",CNN Money FHD
+#EXTINF:-1 tvg-id="br#cnn" tvg-name="CNN Money FHD" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cnn-brasil-money-logo-png_seeklogo-612480.png" group-title="Canais | Notícias",CNN Money FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25015.ts
 #EXTINF:-1 tvg-id="339" tvg-name="Times Brasil (CNBC) FHD" tvg-logo="https://i.imgur.com/X67TE5y.png" group-title="Canais | Notícias",Times Brasil (CNBC) FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25018.ts

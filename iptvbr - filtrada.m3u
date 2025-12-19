@@ -137,7 +137,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17036.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17039.ts
 #EXTINF:-1 tvg-id="TVACritica.br" tvg-name="TV A Crítica" tvg-logo="https://i.imgur.com/LXvCAY1.png" group-title="Canais | Abertos",TV A Crítica
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17052.ts
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="Globo RJ HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Abertos",Globo Rio FHD
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="Globo RJ HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Abertos",Globo Rio FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18021.ts
 #EXTINF:-1 tvg-id="br#rede-globo" tvg-name="Globo SP HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Abertos",Globo São Paulo FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18024.ts

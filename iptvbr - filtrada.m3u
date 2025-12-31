@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-name="A&E FHD" tvg-logo="https://raphmx00.com/ae.png" group-title="Canais | Variedades",A&E FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12000.ts
-#EXTINF:-1 tvg-id="AWTV.br@HD",AWTV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AWTV.br@HD"tvg-name="AWTV" tvg-logo="https://awtv.com.br/wp-content/uploads/2025/05/AWTV-STREAMING-300x138.png" group-title="Canais | Variedades",AWTV
 #EXTVLCOPT:http-referrer=https://awtv.com.br
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="101" tvg-name="BIS FHD" tvg-logo="https://raphmx00.com/bis.png" group-title="Canais | Variedades",BIS FHD

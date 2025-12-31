@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-name="A&E FHD" tvg-logo="https://raphmx00.com/ae.png" group-title="Canais | Variedades",A&E FHD
-http://fontetop.xyz:80/YPzbb6/1B4SzK/139100
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12000.ts
+#EXTINF:-1 tvg-id="AWTV.br@HD",AWTV (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://awtv.com.br
+https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="101" tvg-name="BIS FHD" tvg-logo="https://raphmx00.com/bis.png" group-title="Canais | Variedades",BIS FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12003.ts
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Brazil" tvg-name="Comedy Central FHD" tvg-logo="https://raphmx00.com/comedycentral.jpg" group-title="Canais | Variedades",Comedy Central FHD

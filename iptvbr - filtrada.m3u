@@ -307,7 +307,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25012.ts
 #EXTINF:-1 tvg-id="br#cnn" tvg-name="CNN Money FHD" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cnn-brasil-money-logo-png_seeklogo-612480.png" group-title="Canais | Notícias",CNN Money FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25015.ts
 #EXTINF:-1 tvg-id="339" tvg-name="Times Brasil (CNBC) FHD" tvg-logo="https://i.imgur.com/X67TE5y.png" group-title="Canais | Notícias",Times Brasil (CNBC) FHD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25018.ts
+https://video01.soultv.com.br/timesbrasil/timesbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="352" tvg-name="Canal UOL FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/canaluol.png" group-title="Canais | Notícias",Canal UOL FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25021.ts
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO",Pluto TV Cine Sucessos
@@ -464,5 +464,28 @@ http://fontetop.xyz:80/YPzbb6/1B4SzK/149371
 #EXTINF:-1 tvg-id="" tvg-name="Super Rádio Tupi 96.5 FM RJ" tvg-logo="https://img.radios.com.br/radio/lg/radio14215_1562877228.jpg" group-title="FM",Super Rádio Tupi 96.5 FM RJ
 #EXTINF:-1 tvg-id="" tvg-name="Rádio FM O Dia 100.5" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio FM O Dia 100.5
 http://fontetop.xyz:80/YPzbb6/1B4SzK/149377
-#EXTINF:-1 tvg-id="" tvg-name="SBT News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/SBT_News_2025.svg/960px-SBT_News_2025.svg.png" group-title="Canais | Notícias",SBT News
-https://dai.google.com/linear/hls/pa/event/1XSOdtQ0SH2G8OEmEfGgjQ/stream/266c1627-fba0-4364-a1f6-dfca33d55e43:SCL2/variant/c99d2ab0d64c3b2c5e12915279ff25a7/bandwidth/3126348.m3u8
+#EXTINF:-1 tvg-id="469" tvg-name="SBT News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="CANAIS | NOTÍCIAS",SBT News HD op2
+https://sbtnews.maissbt.com/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26",BBB 01
+http://provedorduo.xyz:80/live/47125065/12264670/4037455.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26",BBB 02
+http://provedorduo.xyz:80/live/47125065/12264670/4037456.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26",BBB 03
+http://provedorduo.xyz:80/live/47125065/12264670/4037457.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26",BBB 04
+http://provedorduo.xyz:80/live/47125065/12264670/4037458.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26",BBB 05
+http://provedorduo.xyz:80/live/47125065/12264670/4037459.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26",BBB 06
+http://provedorduo.xyz:80/live/47125065/12264670/4037460.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 07" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26",BBB 07
+http://provedorduo.xyz:80/live/47125065/12264670/4037461.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 08" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26",BBB 08
+http://provedorduo.xyz:80/live/47125065/12264670/4037462.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 09" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26",BBB 09
+http://provedorduo.xyz:80/live/47125065/12264670/4037463.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 10" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26",BBB 10
+http://provedorduo.xyz:80/live/47125065/12264670/4037464.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 11" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26",BBB 11
+http://provedorduo.xyz:80/live/47125065/12264670/4037465.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 12" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26",BBB 12

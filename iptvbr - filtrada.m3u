@@ -6,7 +6,6 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12000.ts
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="101" tvg-name="BIS FHD" tvg-logo="https://raphmx00.com/bis.png" group-title="Canais | Variedades",BIS FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12003.ts
-
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@Brazil" tvg-name="Discovery H&H FHD" tvg-logo="https://raphmx00.com/discoveryhomeandhealth.png" group-title="Canais | Variedades",Discovery H&H FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12012.ts
 #EXTINF:-1 tvg-id="18" tvg-name="Discovery Turbo FHD" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="Canais | Variedades",Discovery Turbo FHD
@@ -381,19 +380,6 @@ http://fontetop.xyz:80/YPzbb6/1B4SzK/86441
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 14 [Babilônia] [Legendado]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 14 [Babilônia] [Legendado]
 http://fontetop.xyz:80/YPzbb6/1B4SzK/86442
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 15 [Batem à Porta] [Legendado]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 15 [Batem à Porta] [Legendado]
-#EXTINF:-1 tvg-id="" tvg-name="DC Comics 01" tvg-logo="https://i.imgur.com/nPn74rm.png" group-title="24 Horas | Premium",DC Comics 01
-http://fontetop.xyz:80/YPzbb6/1B4SzK/83876
-#EXTINF:-1 tvg-id="" tvg-name="DC Comics 02" tvg-logo="https://i.imgur.com/nPn74rm.png" group-title="24 Horas | Premium",DC Comics 02
-http://fontetop.xyz:80/YPzbb6/1B4SzK/83885
-#EXTINF:-1 tvg-id="" tvg-name="Marvel 01" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 01
-http://fontetop.xyz:80/YPzbb6/1B4SzK/83171
-#EXTINF:-1 tvg-id="" tvg-name="Marvel 02" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 02
-http://fontetop.xyz:80/YPzbb6/1B4SzK/83184
-#EXTINF:-1 tvg-id="" tvg-name="Marvel 03" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 03
-http://fontetop.xyz:80/YPzbb6/1B4SzK/87696
-#EXTINF:-1 tvg-id="" tvg-name="Marvel 04" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 04
-http://fontetop.xyz:80/YPzbb6/1B4SzK/89551
-
 #EXTINF:-1 tvg-id="469" tvg-name="SBT News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="Canais | Notícias",SBT News HD op2
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26",BBB 01

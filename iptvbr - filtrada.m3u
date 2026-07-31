@@ -299,12 +299,10 @@ http://vexio.sbs:80/live/189956566/823971614/202374.ts
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT SPORTS 2 HD³" tvg-name="TNT SPORTS 2 HD³" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 2 HD³
 http://vexio.sbs:80/live/189956566/823971614/177.ts
-#EXTINF:-1 tvg-id="NBX TV SPORTS" tvg-name="NBX TV SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7QeYOX6bZy1s0dflCpI0OJt1vQvGTpH4y5ObBKU8nVbmqIaobsxI0lY79RAcWNjnD8qHvTx2CM-9867Sf34jmsX-gJPXZ0WT6zgioDfoqyFvfNtlTx53ZVHqP3tZ3CUelP4sn2mB8DrXKhP8k2AsFEC8287K398uENOVuuXI1NtZ41lJGr1w0weTsv8k/s1600/nbxtvsport.png" group-title="CANAIS | ESPORTES PPV",NBX TV SPORTS
-https://stmv4.voxtvhd.com.br/nbxtvsports/nbxtvsports/playlist.m3u8
 #EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="CANAIS | SPORTV",SPORTV
 http://s2.micineovs.com/SPTV1/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV ALT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="CANAIS | SPORTV",SPORTV ALT
-http://vexio.sbs:80/live/189956566/823971614/149.ts
+https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="CANAIS | SPORTV",SPORTV 2 HD
 http://79.127.243.211:14473/
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 ALT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="CANAIS | SPORTV",SPORTV 2 ALT
@@ -354,7 +352,7 @@ http://46.151.196.223:14553/
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",ESPN 2 HD
 http://vexio.sbs:80/live/189956566/823971614/44.ts
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="- ESPN3 ALT" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN3 ALT
-http://46.151.196.223:14444/
+http://cdn38246.radiogaucha.net:80/live/f0nt3-tourobox-2819/Jdm8hXSSR3/25993.ts
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",ESPN 3 HD
 http://vexio.sbs:80/live/189956566/823971614/46.ts
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="- ESPN4 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN4 ALT
@@ -368,7 +366,7 @@ http://46.151.196.223:14456/
 #EXTINF:-1 tvg-id="ESPN 6" tvg-name="- ESPN6" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN6
 http://vexio.sbs:80/live/189956566/823971614/48.ts
 #EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 HD ALT" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",ESPN 6 HD ALT
-http://hls1.sua.tv:80/live/espnextrafhd/s.ts
+http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/featuredImage.jpg" group-title="PLUTO TV",Pluto TV Cine Sucessos
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
 #EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/featuredImage.jpg" group-title="PLUTO TV",Pluto TV Filmes Ação
@@ -6365,6 +6363,18 @@ http://natvlive.biz:80/series/splay358jngvod4320/8342iojn852d32@23/268799.mp4
 http://natvlive.biz:80/series/splay358jngvod4320/8342iojn852d32@23/268800.mp4
 #EXTINF:-1 tvg-name="Mania de Você S01E173" tvg-logo="http://servidortv.top:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUzXg0yzu4aLa2lpwLOhD21eWlqR4C9KfHKkqJZwvDvQALnDycFW4yofQ5YoAWiRuM.jpg" group-title="Mania de Você",Mania de Você S01E173
 http://natvlive.biz:80/series/splay358jngvod4320/8342iojn852d32@23/268801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bambi: Uma aventura na floresta" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fyxa96dx5oyDp7GqvfTZJaxuVPK.jpg" group-title="Filmes | Lancamentos",Bambi: Uma aventura na floresta
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/922766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mestres do Universo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/atpb7NKSyM4bJSUY8vQTunzK4Na.jpg" group-title="Filmes | Lancamentos",Mestres do Universo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/922765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="72 Horas em Miami" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vLSogm0b4KokW3qLKEjZ6JwyCJ0.jpg" group-title="Filmes | Lancamentos",72 Horas em Miami
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/922764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encanto Quebrado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rdFOVAlGrS3Fz3X77DedH6OvXRh.jpg" group-title="Filmes | Lancamentos",Encanto Quebrado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/922763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dink - A Última Chance" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lIQGvXrP76yQ3bKiUkYTqGTXFcM.jpg" group-title="Filmes | Lancamentos",The Dink - A Última Chance
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/922762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conspiradores" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg" group-title="Filmes | Lancamentos",Conspiradores
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/922761.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Delator" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/osogRc9qsgjF7SZ1kqGU5UgaAB1.jpg" group-title="Filmes | Lancamentos",O Delator
 http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/922706.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Capitão Hook: As Marés Malditas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6AWwDt0nUh68dISgAWU72SbjQGF.jpg" group-title="Filmes | Lancamentos",Capitão Hook: As Marés Malditas
